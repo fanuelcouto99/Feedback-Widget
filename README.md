@@ -1,7 +1,7 @@
-# Feedback Widget
+# Feedget
 
-Aplicação desenvolvida durante a semana do NLW Return, que visa facilitar o envio de feedback sobre o sistema usado.
+Aplicação desenvolvida durante a semana do NLW Return, que visa facilitar o envio de feedbacks sobre o sistema usado.
 
-<h4 align="center"> 
-	🚧  Feedback Widget | Em Desenvolvimento 🚀 🚧
-</h4>
+<p align="center">
+   <img src="https://github.com/fanuelcouto99/Feedback-Widget/blob/main/img/feedget.png" width="300">
+</p>
