@@ -9,12 +9,12 @@ Aplicação desenvolvida durante a semana do NLW Return, que visa facilitar o en
 <hr>
 
 <p align="center">
- <a href="#sobre o projeto">Sobre o projeto</a>
+ <a href="#sobre">Sobre o projeto</a>
 </p>
 
 <hr>
 
-### :scroll: **Sobre o projeto**
+### :scroll: **Sobre** o projeto
 
 <p>Projeto para aprendizagem, construção de uma aplicação para envio de feedbacks sobre o sistema que está sendo usado. Podendo ser escolhido 3 tipos de feedback.</p>
 <p>Ao enviar a aplicação também faz o envio de um e-mail, com os dados do feedback. Passa esse projeto foi usado o Mailtrip como serviço de teste de envio.</p>
