@@ -9,9 +9,9 @@ Aplicação desenvolvida durante a semana do NLW Return, que visa facilitar o en
 <hr>
 
 <p align="center">
- <a href="#Sobre">Sobre o projeto</a> •
+ <a href="#sobre">Sobre o projeto</a> •
  <a href="#usar">Como usar</a> •
- <a href="#Executando">Instalação</a> •
+ <a href="#executando">Instalação</a> •
 </p>
 
 <hr>
