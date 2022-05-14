@@ -8,7 +8,13 @@ Aplicação desenvolvida durante a semana do NLW Return, que visa facilitar o en
 
 <hr>
 
-### :scroll: Sobre o projeto
+<p align="center">
+ <a href="#sobre o projeto">Sobre o projeto</a>
+</p>
+
+<hr>
+
+### :scroll: **Sobre o projeto**
 
 <p>Projeto para aprendizagem, construção de uma aplicação para envio de feedbacks sobre o sistema que está sendo usado. Podendo ser escolhido 3 tipos de feedback.</p>
 <p>Ao enviar a aplicação também faz o envio de um e-mail, com os dados do feedback. Passa esse projeto foi usado o Mailtrip como serviço de teste de envio.</p>
@@ -38,6 +44,8 @@ Verificando o recebimento do e-mail com feedback.
    <img src="https://github.com/fanuelcouto99/Feedback-Widget/blob/main/img/email.gif">
 </p>
 
+<hr>
+
 ### :rocket: Executando o projeto
 
 <p>Primeiramente é preciso instalar as dependências necessárias para o projeto, para isso basta acessar as pastas server e web pelo terminal, e em ambas, executar o install.</p>
@@ -53,6 +61,8 @@ Verificando o recebimento do e-mail com feedback.
 ```bash
   expo install
 ```
+
+<hr>
 
 ### :factory: Executando o servidor (Aplicação em NodeJs)
 
@@ -78,7 +88,7 @@ Verificando o recebimento do e-mail com feedback.
   npm run dev
 ```
 
-### :computer: Executando o Mobile (Aplicação em Expo)
+### :mobile: Executando o Mobile (Aplicação em Expo)
 
 <p>Na aplicação mobile só será preciso executar o start na pasta mobile, e a aplicação será carregada.</p>
 
