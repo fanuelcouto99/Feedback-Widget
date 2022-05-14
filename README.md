@@ -9,14 +9,12 @@ Aplicação desenvolvida durante a semana do NLW Return, que visa facilitar o en
 <hr>
 
 <p align="center">
- <a href="#sobre">Sobre o projeto</a> •
- <a href="#usar">Como usar</a> •
- <a href="#executando">Instalação</a> •
+ <a href="#scroll-sobre-o-projeto">Sobre o projeto</a> •
+ <a href="#pencil-como-usar">Como usar</a> •
+ <a href="#rocket-executando-o-projeto">Instalação</a> •
 </p>
 
-<hr>
-
-### :scroll: **Sobre** o projeto
+### :scroll: **Sobre o projeto**
 
 <p>Projeto para aprendizagem, construção de uma aplicação para envio de feedbacks sobre o sistema que está sendo usado. Podendo ser escolhido 3 tipos de feedback.</p>
 <p>Ao enviar a aplicação também faz o envio de um e-mail, com os dados do feedback. Passa esse projeto foi usado o Mailtrip como serviço de teste de envio.</p>
@@ -28,7 +26,7 @@ No projeto foi usado também CSS, criado especificamente para ele, usando Tailwi
    <img src="https://github.com/fanuelcouto99/Feedback-Widget/blob/main/img/openFeedback.png">
 </p>
 
-### :pencil: Como **usar**
+### :pencil: **Como usar**
 
 Abrindo o campo para selecionar o tipo de feedback.
 
@@ -50,7 +48,7 @@ Verificando o recebimento do e-mail com feedback.
 
 <hr>
 
-### :rocket: **Executando** o projeto
+### :rocket: **Executando o projeto**
 
 <p>Primeiramente é preciso instalar as dependências necessárias para o projeto, para isso basta acessar as pastas server e web pelo terminal, e em ambas, executar o install.</p>
 
