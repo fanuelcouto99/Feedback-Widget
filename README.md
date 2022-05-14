@@ -9,7 +9,9 @@ Aplicação desenvolvida durante a semana do NLW Return, que visa facilitar o en
 <hr>
 
 <p align="center">
- <a href="#sobre">Sobre o projeto</a>
+ <a href="#Sobre">Sobre o projeto</a>
+ <a href="#usar">Como usar</a>
+ <a href="#Executando">Instalação</a>
 </p>
 
 <hr>
@@ -25,6 +27,8 @@ No projeto foi usado também CSS, criado especificamente para ele, usando Tailwi
 <p align="center">
    <img src="https://github.com/fanuelcouto99/Feedback-Widget/blob/main/img/openFeedback.png">
 </p>
+
+### :pencil: Como **usar**
 
 Abrindo o campo para selecionar o tipo de feedback.
 
@@ -46,7 +50,7 @@ Verificando o recebimento do e-mail com feedback.
 
 <hr>
 
-### :rocket: Executando o projeto
+### :rocket: **Executando** o projeto
 
 <p>Primeiramente é preciso instalar as dependências necessárias para o projeto, para isso basta acessar as pastas server e web pelo terminal, e em ambas, executar o install.</p>
 
@@ -88,7 +92,7 @@ Verificando o recebimento do e-mail com feedback.
   npm run dev
 ```
 
-### :mobile: Executando o Mobile (Aplicação em Expo)
+### :iphone: Executando o Mobile (Aplicação em Expo)
 
 <p>Na aplicação mobile só será preciso executar o start na pasta mobile, e a aplicação será carregada.</p>
 
